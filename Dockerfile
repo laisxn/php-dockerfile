@@ -1,4 +1,4 @@
-FROM registry.cn-hangzhou.aliyuncs.com/guanfang/php:8.3.35-fpm-bullseye
+FROM registry.cn-hangzhou.aliyuncs.com/guanfang/php:8.3.36-fpm-bullseye
 
 ENV TIMEZONE Asia/Shanghai
 
