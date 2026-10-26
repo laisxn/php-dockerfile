@@ -16,7 +16,6 @@ RUN apt-get clean && apt-get update && apt-get install -y \
                 libmemcached-dev zlib1g-dev \
                 libmagickwand-dev \
                 libmagickcore-dev \
-                libc-client-dev \
                 libkrb5-dev \
                 libzip-dev \
                 curl \
